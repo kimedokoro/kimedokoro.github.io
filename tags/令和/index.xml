@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>令和 on きめどころ</title>
+    <link>https://kimedokoro.github.io/tags/%E4%BB%A4%E5%92%8C/</link>
+    <description>Recent content in 令和 on きめどころ</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>jp-JP</language>
+    <lastBuildDate>Mon, 15 Jun 2020 01:21:55 +0000</lastBuildDate>
+    
+	<atom:link href="https://kimedokoro.github.io/tags/%E4%BB%A4%E5%92%8C/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>これは何</title>
+      <link>https://kimedokoro.github.io/post/%E3%81%93%E3%82%8C%E3%81%AF%E4%BD%95/</link>
+      <pubDate>Mon, 15 Jun 2020 01:21:55 +0000</pubDate>
+      
+      <guid>https://kimedokoro.github.io/post/%E3%81%93%E3%82%8C%E3%81%AF%E4%BD%95/</guid>
+      <description>  これは何？
+  これは日本語を学ぶブログ。
+  これは誰のブログ？
+  これはパブロのブログ。
+  このブログはどこでホストされてある？
+  このブログはGitHubでホストされてある。
+  あなたはどこ出身？
+  僕はスペイン出身。
+  パブロは何さい？
+  僕は３４さい。
+  あなたの誕生日はいつ？
+  誕生日は１０月２６日。
+  </description>
+    </item>
+    
+  </channel>
+</rss>
